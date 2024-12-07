@@ -1,0 +1,54 @@
+main {
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    width: 350px;
+    background-color: #1f1f1f;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+.container .profile {
+    text-align: center;
+}
+.profile .profile-image {
+    width: 80px;
+    border-radius: 50%;
+    margin: 15px 0;
+}
+.profile .name {
+    color: #ffffff;
+    
+}
+.profile .addres {
+    color:  #c5f82a;
+    margin: 10px;
+}
+.container .profession {
+    color: #ffffffaf;
+    margin: 10px 0;
+    font-size: 14px;
+}
+.container .social-media {
+    width: 100%;
+}
+.container .social-media a {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 5px;
+    background-color: #333333;
+    color: #ffffff;
+}
+.container .social-media a:hover {
+    background-color: #c5f82a;
+    color: #141414;;
+}
