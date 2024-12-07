@@ -29,7 +29,7 @@ Aprimorar e reforçar conceitos fundamentais em **HTML** e **CSS**, como estrutu
 ## 🖼️ Prévia
 <img src="./design/active-states.png">
 
-Acesse a página online: [Live Demo]().
+Acesse a página online: [Live Demo](https://leandroazevedo-1.github.io/blog-preview-pard/).
 
 ---
 📜 Licença
